@@ -13,3 +13,4 @@ public class KtpAddRequest {
     private LocalDate tanggalLahir;
     private String jenisKelamin;
 
+}
