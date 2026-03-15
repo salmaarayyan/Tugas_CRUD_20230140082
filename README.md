@@ -37,6 +37,8 @@ Response Body (failed) :
   "error": "Invalid input data"
 }
 ```
+Screenshot hasil endpoint POST
+![endpointPOST.png](endpointPOST.png)
 
 ## Update KTP
 Endpoint : PUT /ktp/{id}
@@ -75,6 +77,8 @@ Response Body (failed) :
   "error": "Data KTP not found"
 }
 ```
+Screenshot hasil endpoint PUT
+![endpointPUT.png](endpointPUT.png)
 
 ## Get All KTP
 Endpoint : GET /ktp
@@ -103,6 +107,8 @@ Response Body (failed) :
   "error": "Data not found"
 }
 ```
+Screenshot hasil endpoint GET all
+![endpointGET.png](endpointGET.png)
 
 ## Get KTP by ID
 Endpoint : GET /ktp/{id}
@@ -129,6 +135,8 @@ Response Body (failed) :
   "error": "Data KTP not found"
 }
 ```
+Screenshot endpoint GET by Id
+![endpointGETid.png](endpointGETid.png)
 
 ## Delete KTP
 Endpoint : DELETE /ktp/{id}
@@ -148,6 +156,8 @@ Response Body (failed) :
   "error": "Data KTP not found"
 }
 ```
+Screenshot endpoint DELETE
+![endpointDELETE.png](endpointDELETE.png)
 
 Dokumentasi Tampilan Web
-![tampilan.jpeg](tampilan.jpeg)
+![tampilanwebsite.jpeg](tampilanwebsite.jpeg)
